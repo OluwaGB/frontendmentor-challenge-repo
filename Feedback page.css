@@ -1,0 +1,79 @@
+body{background: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fprogramming-code-abstract-technology-background-of-software-deve-picture-id537331500%3Fb%3D1%26k%3D20%26m%3D537331500%26s%3D170667a%26w%3D0%26h%3D-OawbbTR9TwfewLYKlaU-_cn1m_dq1WLpBK1qubFhGI%3D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcoding&tbnid=QHprlNt6CU342M&vet=1&docid=kCWKwglLTq1cAM&w=509&h=339&hl=en-GB&source=sh%2Fx%2Fim');}
+
+.form-container {background-color:black; 
+;
+border-radius:10px;
+padding:55px;
+margin-top:50%;}
+.form-container1{background-color:RGB(0,5,40);
+border-radius:10px;
+text-align:center;
+padding:15px;}
+
+#button{border-radius:30px;
+background-color:white;
+width:10%;
+text-align:;
+color:orange;
+font-weight:bold;
+padding:5px;
+margin-top:;10%;}
+.button{background-color:orange;
+padding:5px;
+border-radius:10px;
+text-align:center;
+width:60%;
+margin-left:20%;
+margin-top:10%;
+color:white;
+
+text-shadow:1px 1px 1px black;
+font-size:35px;
+letter-spacing:5px;}
+.button:hover{transition:width 2s;
+transition-timing-function:ease-in;
+width:100px;
+background-color:RGB(120,100,105);}
+button{border-radius:32px;
+padding:15px;
+text-shadow:1px 1px black;
+border:1px solid white;
+
+background:url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fprogramming-code-abstract-technology-background-of-software-deve-picture-id537331500%3Fb%3D1%26k%3D20%26m%3D537331500%26s%3D170667a%26w%3D0%26h%3D-OawbbTR9TwfewLYKlaU-_cn1m_dq1WLpBK1qubFhGI%3D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcoding&tbnid=QHprlNt6CU342M&vet=1&docid=kCWKwglLTq1cAM&w=509&h=339&hl=en-GB&source=sh%2Fx%2Fim');
+color:red;}
+
+table{margin-left:10%;}
+h{color:white;
+font-style:outset;
+font-size:25px;
+}
+
+p{color:red;
+font-size:15px;}
+#div{background-color:RGB(105,110,120);
+color:rgb(190,100,145);
+width:50px;
+height:20px;
+padding:10px;
+transition-duration:width 2s height 2s;
+transition-timing-function:ease-in-out;
+}
+
+div:hover{width:250px;}
+
+#div:hover{width:200px;};
+
+marquee{color:white;
+text-shadow: 2px 2px 5px red;
+font-style:outset;
+font-size:15px;}
+
+#demo{
+    background-color:whitesmoke;
+    color:blue;
+    text-shadow: 30px 0px 0px 30px blue;
+font-family: verdana;
+padding:;
+border-radius:5px;
+transition: 3s;
+}
