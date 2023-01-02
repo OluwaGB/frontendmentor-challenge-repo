@@ -1,0 +1,19 @@
+body {
+	background-color: dodgerblue;
+
+margin:70px 70px 70px 70px;
+	
+}
+.form-container{position:fixed;
+	background-color: yellow;
+	border: 5px solid white;
+	padding:70px;
+}
+h{
+	position: absolute;
+	bottom: 0;
+	right:0;
+	font-size: 50px;
+	font-family: arial;
+	font-weight: bold;
+}
