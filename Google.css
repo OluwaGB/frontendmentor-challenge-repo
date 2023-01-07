@@ -1,0 +1,39 @@
+body {
+	position: relative;
+	margin: center;
+}
+.form-container{
+	position: absolute;
+	margin:50px 50px 50px 50px;
+	top: 50px;
+	background-color:whitesmoke;
+	color:red;
+	padding: 30px;
+	border-radius:10px;
+}
+.form-container:hover{
+	background-color: rgb(154,125,145,60);
+	transition: 1s ease-in-out;
+}
+span{font-size: 25px;
+	font-family: arial;
+}
+#tag1{
+	color:dodgerblue;
+}
+#tag2{
+	color:red;
+}
+#tag3{
+	color:orange;
+}
+#tag4{
+	color:dodgerblue
+}
+#tag5{
+	color:green;
+}
+
+#tag6{
+	color: red;
+}
