@@ -1,0 +1,51 @@
+body {background-color: dodgerblue;
+    font-size: 15px;
+    place-content: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:black;
+    position:relative;
+
+}
+#title,#description{
+  color:white;
+  text-align: center;
+}
+p{color:dodgerblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 11px;
+}
+#radiod{
+  display:grid;;
+}
+
+select{
+  width:270px;
+  padding:10px;
+  text-align: center;
+  place-content: center;
+}
+#survey-form{
+  background-color: white;
+  border-radius:10px;
+  padding:20px;
+  place-content:center;
+}
+input{
+  font-size: 12px;
+  font-family: sans-serif;
+  color:blue;
+  width:250px;
+}
+textarea{overflow:scroll;
+  width:250px;
+}
+button{padding:6px;
+  color:white;
+  background-color:green;
+  font-size: 15px;
+  border-radius:5px;
+  width:150px;
+ margin-left:50px;
+  
+}
