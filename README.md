@@ -1,2 +1,3 @@
 # frontendmentor-challenge-repo
-To improve my HTML,Css and JavaScript knowledge by attempting series of challenge  in the frontendmentor 
+This repo consist of project clone from frontend mentor all in the name of improving my HTML,Css and JavaScript knowledge.
+ 
